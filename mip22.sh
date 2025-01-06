@@ -3,14 +3,14 @@
 
 #
 #  Copyright (c) 2022 Barchampas Gerasimos <makindosxx@gmail.com>.
-#  mip22 is a advanced phishing tool.
+#  mi7 is a advanced phishing tool.
 #
-#  mip22 is free software: you can redistribute it and/or modify
+#  mi7 is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU Affero General Public License as published by
 #  the Free Software Foundation, either version 3 of the License, or
 #  (at your option) any later version.
 #
-#  mip22 is distributed in the hope that it will be useful,
+#  mi7 is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY; without even the implied warranty of
 #  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #  GNU Affero General Public License for more details.
@@ -146,19 +146,31 @@ header(){
     printf "${BLUE}"	
 	cat <<- EOF
 	
-${BLUE} ███╗   ███╗██╗██╗██████╗  ██████╗ ██╗████████╗███████╗
- ████╗ ████║██║██║██╔══██╗██╔═══██╗██║╚══██╔══╝██╔════╝
- ██╔████╔██║██║██║██████╔╝██║   ██║██║   ██║   █████╗
- ██║╚██╔╝██║██║██╔═══╝ ██║   ██║██║   ██║   ██╔══╝
- ██║ ╚═╝ ██║██║██║     ╚██████╔╝██║   ██║   ███████╗
- ╚═╝     ╚═╝╚═╝╚═╝      ╚═════╝ ╚═╝   ╚═╝   ╚══════╝
-   ██╗███╗   ███╗██████╗  ██████╗ ███████╗███████╗██╗██████╗ ██╗     ███████╗███████╗
-   ██║████╗ ████║██╔══██╗██╔═══██╗██╔════╝██╔════╝██║██╔══██╗██║     ██╔════╝██╔════╝
-   ██║██╔████╔██║██████╔╝██║   ██║███████╗███████╗██║██████╔╝██║     █████╗  ███████╗
-   ██║██║╚██╔╝██║██╔═══╝ ██║   ██║╚════██║╚════██║██║██╔══██╗██║     ██╔══╝  ╚════██║
-   ██║██║ ╚═╝ ██║██║     ╚██████╔╝███████║███████║██║██████╔╝███████╗███████╗███████║
-   ╚═╝╚═╝     ╚═╝╚═╝      ╚═════╝ ╚══════╝╚══════╝╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝ d888 d888 
-${BLUE}                                                                                         
+${BLUE} ██╗    ██╗███████╗██╗     ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║  ██║██╔████╔██║███████╗
+██║███╗██║██╔══╝  ██║     ██║  ██║██║╚██╔╝██║╚════██║
+╚███╔███╔╝███████╗███████╗██████╔╝██║ ╚═╝ ██║███████║
+ ╚══╝╚══╝ ╚══════╝╚══════╝╚═════╝ ╚═╝     ╚═╝╚══════╝
+
+ d888 d888 
+${BLUE}  
+
+
+${BLUE}
+ 
+ ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+ ██║  ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗
+ ███████║███████║██║     ███████║█████╗  ██████╔╝
+ ██╔══██║██╔══██║██║     ██╔══██║██╔══╝  ██╔══██╗
+ ██║  ██║██║  ██║╚██████╗██║  ██║███████╗██║  ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+
+ d888 d888 
+${BLUE}  
+
+                                                                                       
         ${CYAN}Mip22 tool made for educational purpose only. 	${ORANGE}Version: 3.3  
         ${CYAN}The author is not responsible for any malicious use of the program.
 		${CYAN}        Mip Created by ${ORANGE}makdosx ${CYAN}(https://github.com/makdosx) ${WHITE}
@@ -1724,7 +1736,7 @@ menu() {
 	    help) help;;
 	      				
 		0)
-		echo -ne "\n${GREEN}[${WHITE}!${GREEN}]${ORANGE} Thanks for using mip22 "${WHITE}
+		echo -ne "\n${GREEN}[${WHITE}!${GREEN}]${ORANGE} Thanks for using mi7 "${WHITE}
 		sleep 2
 		clear
 		exit 1;;
